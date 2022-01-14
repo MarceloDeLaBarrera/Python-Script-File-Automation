@@ -15,7 +15,7 @@ _You have to make slight modifications according to your needs if you want to us
 ## Video ⭐
 
 _This video contains an explanation of the code and demonstration in action for your understanding._
-[![Img alt text](https://img.youtube.com/vi/Vi5HGvDERmk/0.jpg)](https://www.youtube.com/watch?v=Vi5HGvDERmk)
+[![Img alt text](https://img.youtube.com/vi/uECmRWakAf0/0.jpg)](https://www.youtube.com/watch?v=uECmRWakAf0)
 
 ## Starting 🚀
 
