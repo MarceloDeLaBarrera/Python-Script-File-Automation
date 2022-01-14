@@ -57,9 +57,9 @@ def rename_files(full_path):
         for element in newpath:
             if os.path.isdir(os.path.join(pathh, element)):
                 pathhh = os.path.join(pathh, element)
-                directorys = os.listdir(os.path.join(pathh, element))
+                directories = os.listdir(os.path.join(pathh, element))
 
-                for file in directorys:
+                for file in directories:
                     if file.endswith("mkv") or file.endswith("mp4"):
                         file_name = file
                         name, extmkvmp4 = os.path.splitext(file_name)
