@@ -1,6 +1,6 @@
 # Python-Script-File-Automation
 
-_A script to automate the creation of directories, move and rename files._
+_A script to automate the creation of multiple directories, move and rename multiple files._
 
 _You have to make slight modifications according to your needs if you want to use this script._
 
