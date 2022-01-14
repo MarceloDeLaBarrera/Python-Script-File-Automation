@@ -6,6 +6,7 @@ _You have to make slight modifications according to your needs if you want to us
 
 ## Table of contents
 
+- [Video](#Video-)
 - [Starting](#starting-)
 - [Requeriments](#requeriments-)
 - [Built in](#built-in-%EF%B8%8F)
@@ -14,7 +15,7 @@ _You have to make slight modifications according to your needs if you want to us
 ## Video ⭐
 
 _This video contains an explanation of the code and demonstration in action for your understanding._
-![video](https://www.youtube.com/watch?v=Vi5HGvDERmk)
+[![Img alt text](https://img.youtube.com/vi/Vi5HGvDERmk/0.jpg)](https://www.youtube.com/watch?v=Vi5HGvDERmk)
 
 ## Starting 🚀
 
