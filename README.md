@@ -6,16 +6,19 @@ _You have to make slight modifications according to your needs if you want to us
 
 ## Table of contents
 
-- [Video](#Video-)
+- [Video](#Videos-)
 - [Starting](#starting-)
 - [Requeriments](#requeriments-)
 - [Built in](#built-in-%EF%B8%8F)
 - [Autor](#autor-%EF%B8%8F)
 
-## Video ⭐
+## Videos ⭐
 
 _This video contains an explanation of the code and demonstration in action for your understanding._
 [![Img alt text](https://img.youtube.com/vi/uECmRWakAf0/0.jpg)](https://www.youtube.com/watch?v=uECmRWakAf0)
+
+_Also, in the next video, you can see a test of the script in other path_
+[![Img alt text](https://img.youtube.com/vi/jg7bLMbFeVk/0.jpg)](https://www.youtube.com/watch?v=jg7bLMbFeVk)
 
 ## Starting 🚀
 
